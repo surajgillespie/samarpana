@@ -1,2 +1,3 @@
-This is a wwebsite built on cakePhp framework
-You'll need apache, php and mysql installed on your pc before trying to runt his site
+This is a website built on cakePhp framework
+You'll need Wamp/Lamp/Xampp installed on your pc before to run this site.
+To run it ,copy paste the samarpana folder to htdocs(in case of Xampp) and type in locahost/samarpana on your browser.
